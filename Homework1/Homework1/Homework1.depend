@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1586705110 source:c:\cs201\homework1\homework1\main.cpp
+	<iostream>
+	"SimpleCourse.h"
+	"RegistrationSystem.h"
+
+1586622231 c:\cs201\homework1\homework1\simplecourse.h
+	<string>
+	<iostream>
+
+1586701495 c:\cs201\homework1\homework1\registrationsystem.h
+	"SimpleStudent.h"
+	<string>
+
+1586638379 c:\cs201\homework1\homework1\simplestudent.h
+	"SimpleCourse.h"
+	<string>
+
+1586625770 source:c:\cs201\homework1\homework1\simplecourse.cpp
+	"SimpleCourse.h"
+
+1586707633 source:c:\cs201\homework1\homework1\registrationsystem.cpp
+	"RegistrationSystem.h"
+
+1586707780 source:c:\cs201\homework1\homework1\simplestudent.cpp
+	"SimpleStudent.h"
+
+1586614633 c:\cs201\homework1\homework1\simplestudent .h
+	"SimpleCourse.h"
+	<string>
+
